@@ -1,3 +1,17 @@
+"""
+Copyright © 2024 Shiqi Wu
+
+This work is part of the TCM-NetMiner project, a tool for network pharmacology analysis.
+GitHub Repository: https://github.com/Shiqi-Wu/TCM-NetMiner
+
+This project is based on the code from the following article:
+https://cloud.tencent.com/developer/article/2466039
+
+Permission is hereby granted to use, modify, and distribute this code for non-commercial purposes, 
+provided that proper credit is given to the original author and the derivative work's authors. 
+For any inquiries, please contact the repository owner through GitHub.
+"""
+
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
