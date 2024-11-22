@@ -1,0 +1,8 @@
+{
+    "gecko_driver_path": "chromedriver-mac-x64/chromedriver",
+    "output_dir": "table",
+    "filter_conditions": {
+        "ob_threshold": 30,
+        "dl_threshold": 0.18
+    }
+}
